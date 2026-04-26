@@ -1,7 +1,7 @@
 # Parallel-Programming--Object-Detection-inferencing-on-GPU-edge-devices
-# YOLOv8 Live Object Detection on Jetson Edge Device
-Team: Edgar David Medellin Flores &amp; Viridiana Espiritu Sanchez 
 # Object Detection Workflow on GPU Edge Device
+### YOLOv8 Live Object Detection on Jetson Edge Device
+Team: Edgar David Medellin Flores &amp; Viridiana Espiritu Sanchez 
 
 ##  Project Overview
 This project aims to develop and build a workflow for real-time object identification on a GPU-accelerated embedded system. The goal is to show that AI inference can be performed efficiently on edge devices utilizing parallel computing approaches.
@@ -25,7 +25,7 @@ Also, as it has been known, GPU acceleration significantly improves inference sp
 ---
 
 ## Hardware Selection
-- NVIDIA Jetson Nano (embedded GPU platform)
+- NVIDIA Jetson Board (embedded GPU platform)
 - USB Camera
 - Monitor, Keyboard, and mouse
 - Internet Connection
